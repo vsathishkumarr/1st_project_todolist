@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open 1st_project_todolist.html",
-            "file": "d:\\.vscode\\Static Website\\1st_project_todolist\\1st_project_todolist.html"
+            "name": "Open chatpage.html",
+            "file": "d:\\.vscode\\Static Website\\2nd_project_chatpage\\chatpage.html"
         }
     ]
 }

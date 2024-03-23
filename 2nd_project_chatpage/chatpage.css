@@ -1,0 +1,43 @@
+.chatpage_bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.chatpage_header {
+    color: #ffffff;
+    background-color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.chatpage_padding{
+    padding: 20px;
+}
+
+.chat_sent{
+    color: #ffffff;
+    background-color: #47a3f3;
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: right;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.chat_received{
+    color: #ffffff;
+    background-color: #52606d;
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: left;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;  
+}
